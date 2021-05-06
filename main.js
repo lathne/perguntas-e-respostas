@@ -15,8 +15,6 @@ if(querJogar == 1) {
         const respostaErrada1 = document.getElementById("resposta-errada1");
         respostaErrada1.innerHTML = "Resposta 1";
     }
-    console.log(questaoUm);
-
 
     const questaoDois = window.prompt("Quanto é 2 + 2?");
 
