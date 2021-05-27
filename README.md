@@ -1,4 +1,4 @@
-# perguntas-e-respostas
-Projeto da Seleção Laboratória
+# Trivia
+Projeto da Pré Seleção Laboratória
 
 Laura Thomazi Neumann e Mayara Bezerra
